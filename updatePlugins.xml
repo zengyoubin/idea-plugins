@@ -4,8 +4,8 @@
 
     <plugin
             id="com.ctrip.spock-comparator"
-            url="http://git.dev.sh.ctripcorp.com/yb_zeng/spock-comparator/-/raw/master/build/distributions/spock-comparator-1.0.1.zip?inline=false"
-            version="1.0.1">
+            url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/spock-comparator-1.0.2.zip"
+            version="1.0.2">
 
         <idea-version since-build="212.*" until-build="999.*"/>
     </plugin>
