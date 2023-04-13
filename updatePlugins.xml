@@ -10,4 +10,21 @@
         <idea-version since-build="212.*" until-build="999.*"/>
     </plugin>
 
+    
+    <plugin
+            id="com.weirddev.testme"
+            url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/TestMe-6.0.3.zip"
+            version="6.0.3">
+
+        <idea-version since-build="211.*" until-build="999.*"/>
+    </plugin>
+    
+    <plugin
+            id="com.weirddev.testme"
+            url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/TestMe-6.0.4.zip"
+            version="6.0.4">
+
+        <idea-version since-build="231.*" until-build="999.*"/>
+    </plugin>
+
 </plugins>
