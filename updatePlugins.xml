@@ -9,7 +9,13 @@
 
         <idea-version since-build="212.*" until-build="999.*"/>
     </plugin>
+    <plugin
+            id="com.ctrip.spock-comparator"
+            url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/spock-comparator-1.0.3.zip"
+            version="1.0.3">
 
+        <idea-version since-build="212.*" until-build="999.*"/>
+    </plugin>
     
     <plugin
             id="com.weirddev.testme.ctrip"
