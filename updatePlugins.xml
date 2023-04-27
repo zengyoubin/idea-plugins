@@ -28,7 +28,7 @@
             id="com.ctrip.ttd.ctrip-plugins"
             url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/ctrip-plugins-1.0.0.zip"
             version="6.0.4">
-
+        <name>Ctrip-Plugins</name>
         <idea-version since-build="222.*" until-build="999.*"/>
     </plugin>
 </plugins>
