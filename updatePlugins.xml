@@ -31,10 +31,17 @@
         <name>Ctrip-Plugins</name>
         <idea-version since-build="222.*" until-build="999.*"/>
     </plugin>
-        <plugin
+    <plugin
             id="com.ctrip.ttd.ctrip-plugins"
             url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/ctrip-plugins-1.0.1.zip"
             version="1.0.1">
+        <name>Ctrip-Plugins</name>
+        <idea-version since-build="222.*" until-build="999.*"/>
+    </plugin>
+    <plugin
+            id="com.ctrip.ttd.ctrip-plugins"
+            url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/ctrip-plugins-1.0.2.zip"
+            version="1.0.2">
         <name>Ctrip-Plugins</name>
         <idea-version since-build="222.*" until-build="999.*"/>
     </plugin>
