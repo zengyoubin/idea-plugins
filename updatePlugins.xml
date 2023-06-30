@@ -9,6 +9,9 @@
     <plugin id="com.weirddev.testme.ctrip" url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/TestMe-6.0.4.zip" version="6.0.4">
         <idea-version since-build="231.*" until-build="999.*"/>
     </plugin>
+    <plugin id="com.weirddev.testme.ctrip" url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/TestMe-6.0.4.zip" version="6.0.5">
+        <idea-version since-build="231.*" until-build="999.*"/>
+    </plugin>
     <plugin id="com.ctrip.ttd.ctrip-plugins" url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/ctrip-plugins-1.0.0.zip" version="1.0.0">
         <name>Ctrip-Plugins</name>
         <idea-version since-build="222.*" until-build="999.*"/>
@@ -34,6 +37,10 @@
         <idea-version since-build="222.*" until-build="999.*"/>
     </plugin>
     <plugin id="com.ctrip.ttd.ctrip-plugins" url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/ctrip-plugins-1.1.0.zip" version="1.1.0">
+        <name>Ctrip-Plugins</name>
+        <idea-version since-build="222.*" until-build="999.*"/>
+    </plugin>
+    <plugin id="com.ctrip.ttd.ctrip-plugins" url="https://raw.githubusercontent.com/zengyoubin/idea-plugins/main/ctrip-plugins-1.1.1-SNAPSHOT.zip" version="1.1.1-SNAPSHOT">
         <name>Ctrip-Plugins</name>
         <idea-version since-build="222.*" until-build="999.*"/>
     </plugin>
